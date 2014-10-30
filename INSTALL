@@ -1,0 +1,12 @@
+Besides a working JRE, ant, and a copy of Stanford CoreNLP toolkit, here are a few environment variables that you want to set before SCNTreeViewer can work.
+
+build.xml: STANFORD_CORENLP_HOME
+
+SCNTreeViewer.sh: STANFORD_CORENLP_HOME
+
+Now you can use "ant" to compile SCNTreeViewer, and "SCNTreeViewer.sh" helps to invoke it.
+
+Enjoy!
+
+
+ 
