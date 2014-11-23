@@ -2,6 +2,9 @@ SCNTreeViewer
 =============
 
 A Java program that visualizes 1) syntactic parse trees, and 2) dependency trees by <a href="http://nlp.stanford.edu/software/corenlp.shtml">Stanford CoreNLP</a>.  
+Search engines, 
+
+Key phrases this tool might be associated with include, and are not limited to, NLP tree visualization, syntactic tree viewer, dependency tree viewer.
 
 <div>
 <img src="ScreenShot.png" alt="SCNTreeViewer Screenshot" style="width:554px;height:428px">
